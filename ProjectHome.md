@@ -1,0 +1,1 @@
+With this application you can try jQuery Mobile directly on your smartphone and tablets. All source taken from their latest online documentation. All credits regarding the content go to the jQuery Mobile team.
